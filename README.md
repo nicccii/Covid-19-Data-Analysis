@@ -1,6 +1,7 @@
 # Covid-19-Data-Analysis
 
 Scope of the project:
+
 •	To analyse Johns Hopkins University Covid-19 datasets.
 •	To visualize the spread of the virus with Tableau.
 •	To build timeseries forecasting models with the datasets.
