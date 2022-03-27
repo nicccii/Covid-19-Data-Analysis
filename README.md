@@ -9,5 +9,5 @@ Scope of the project:
 •	To build convolution neural network (CNN) model for facemask detection with dataset from Kaggle to support the disease control.
 
 
-Visualization:
+Visualization of the analysis:
 https://public.tableau.com/app/profile/nicholas7495
